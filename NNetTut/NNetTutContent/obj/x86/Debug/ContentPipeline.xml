@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>hovercraft.png</Source>
+      <Name>hovercraft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Merkel\Desktop\Board Game\NNetTut\NNetTut\bin\x86\Debug\Content\hovercraft.xnb</Output>
+      <Time>2015-02-16T16:51:06.7383279-06:00</Time>
+    </Item>
+    <Item>
+      <Source>rubberchicken.png</Source>
+      <Name>rubberchicken</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Merkel\Desktop\Board Game\NNetTut\NNetTut\bin\x86\Debug\Content\rubberchicken.xnb</Output>
+      <Time>2013-10-07T12:38:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tank.png</Source>
+      <Name>tank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Merkel\Desktop\Board Game\NNetTut\NNetTut\bin\x86\Debug\Content\tank.xnb</Output>
+      <Time>2015-02-23T01:33:29.9483073-06:00</Time>
+    </Item>
+    <Item>
+      <Source>mine.png</Source>
+      <Name>mine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Merkel\Desktop\Board Game\NNetTut\NNetTut\bin\x86\Debug\Content\mine.xnb</Output>
+      <Time>2015-02-23T01:32:33.0560533-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GameThumbnail.png</Source>
+      <Name>GameThumbnail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Merkel\Desktop\Board Game\NNetTut\NNetTut\bin\x86\Debug\Content\GameThumbnail.xnb</Output>
+      <Time>2015-02-22T23:27:00.8420757-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Merkel\Desktop\Board Game\NNetTut\NNetTut\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Time>2015-02-23T01:06:45.1871983-06:00</Time>
+    </Item>
+    <Item>
+      <Source>desertHex.png</Source>
+      <Name>desertHex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Merkel\Desktop\Board Game\NNetTut\NNetTut\bin\x86\Debug\Content\desertHex.xnb</Output>
+      <Time>2016-07-04T14:52:54.1671166-05:00</Time>
+    </Item>
+    <Item>
+      <Source>grassHex.png</Source>
+      <Name>grassHex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Merkel\Desktop\Board Game\NNetTut\NNetTut\bin\x86\Debug\Content\grassHex.xnb</Output>
+      <Time>2016-07-04T14:22:27.2292122-05:00</Time>
+    </Item>
+    <Item>
+      <Source>deepWaterHex.png</Source>
+      <Name>deepWaterHex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Merkel\Desktop\Board Game\NNetTut\NNetTut\bin\x86\Debug\Content\deepWaterHex.xnb</Output>
+      <Time>2016-07-04T14:21:31.3481837-05:00</Time>
+    </Item>
+    <Item>
+      <Source>mountainHex.png</Source>
+      <Name>mountainHex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Merkel\Desktop\Board Game\NNetTut\NNetTut\bin\x86\Debug\Content\mountainHex.xnb</Output>
+      <Time>2016-07-04T14:51:49.6972114-05:00</Time>
+    </Item>
+    <Item>
+      <Source>waterHex.png</Source>
+      <Name>waterHex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Merkel\Desktop\Board Game\NNetTut\NNetTut\bin\x86\Debug\Content\waterHex.xnb</Output>
+      <Time>2016-07-04T14:22:02.2886739-05:00</Time>
+    </Item>
+    <Item>
+      <Source>woodHex.png</Source>
+      <Name>woodHex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Merkel\Desktop\Board Game\NNetTut\NNetTut\bin\x86\Debug\Content\woodHex.xnb</Output>
+      <Time>2016-07-04T14:53:44.2324061-05:00</Time>
+    </Item>
+    <Item>
+      <Source>cityHex.png</Source>
+      <Name>cityHex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Merkel\Desktop\Board Game\NNetTut\NNetTut\bin\x86\Debug\Content\cityHex.xnb</Output>
+      <Time>2016-07-04T15:38:07.7464266-05:00</Time>
+    </Item>
+    <Item>
+      <Source>selectedHex.png</Source>
+      <Name>selectedHex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Merkel\Desktop\Board Game\NNetTut\NNetTut\bin\x86\Debug\Content\selectedHex.xnb</Output>
+      <Time>2016-07-04T19:15:47.4227663-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Merkel\Desktop\Board Game\NNetTut\NNetTutContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Merkel\Desktop\Board Game\NNetTut\NNetTut\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Merkel\Desktop\Board Game\NNetTut\NNetTutContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Merkel\Desktop\Board Game\NNetTut\NNetTut\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T14:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T14:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T14:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T14:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T14:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T14:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-10-26T11:24:15.963508-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
